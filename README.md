@@ -45,6 +45,8 @@ The Open Source Program Office (OSPO) at Mercado Libre is responsible for managi
 Here you can find our main sources of inspiration and knowledge on the topic:
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [TODO Group](https://todogroup.org/)
+- [OSPO Alliance](https://ospo-alliance.org/)
+- [Open Chain](https://openchainproject.org/)
 
 ## License
 
