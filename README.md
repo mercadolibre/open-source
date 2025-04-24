@@ -1,3 +1,5 @@
+[![OSPO Landscape](https://img.shields.io/badge/TODO%20Landscape-OSPO%20Adopter-5699C6)](https://landscape.todogroup.org/?item=ospo-adopter--ospo-ad-pter--mercado-libre-adopter)
+![GitHub License](https://img.shields.io/github/license/fer-correa/open-source)
 # Open Source at Mercado Libre
 
 <p float="left">
