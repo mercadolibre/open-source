@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <strong>Guide to Mercado Libre’s open source approach, Open Source Program Office (OSPO), and InnerSource.</strong>
+    <strong>Guide to Mercado Libre’s open source approach, InnerSource model, and Open Source Program Office (OSPO).</strong>
 </p>
 
 <p align="center">
