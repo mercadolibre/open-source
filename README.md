@@ -65,8 +65,8 @@ At [Mercado Libre](https://news.mercadolibre.com/en/acercade), we value Open Sou
 ## Related resources
 
 - [Linux Foundation](https://www.linuxfoundation.org/)
-- [Mercado Libre APIs for developers](https://developers.mercadolibre.com)
-- [Mercado Libre technology blog](https://medium.com/mercadolibre-tech)
+- [Mercado Libre's APIs for developers](https://developers.mercadolibre.com)
+- [Mercado Libre's technology blog](https://medium.com/mercadolibre-tech)
 - [Open Chain](https://openchainproject.org/)
 - [OSPO Alliance](https://ospo-alliance.org/)
 - [TODO Group](https://todogroup.org/)
