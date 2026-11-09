@@ -1,5 +1,5 @@
 [![OSPO Landscape](https://img.shields.io/badge/TODO%20Landscape-OSPO%20Adopter-5699C6)](https://landscape.todogroup.org/?item=ospo-adopter--ospo-ad-pter--mercado-libre-adopter)
-![GitHub License](https://img.shields.io/github/license/fer-correa/open-source)
+![GitHub License](https://img.shields.io/github/license/mercadolibre/open-source)
 # Open Source at Mercado Libre
 
 <p float="left">
@@ -34,13 +34,13 @@ At Mercado Libre, we believe that Open Source is essential for technological pro
 
 The Open Source Program Office (OSPO) at Mercado Libre is responsible for managing our Open Source initiatives. Our OSPO focuses on:
 
-- **Promoting**: Encouraging the conscious use to Open Source projects within our organization.
+- **Promoting**: Encouraging the conscious use of Open Source projects within our organization.
 - **Managing**: Overseeing the policies and practices related to Open Source to ensure we follow industry best practices.
 - **Supporting**: Assisting teams wishing to make contributions to Open Source projects or develop new ones.
 
 ### OSPO Information
 
-- **Contact**: For queries and collaborations, get in touch with our OSPO team at [ospo@mercadolibre.com]().
+- **Contact**: For queries and collaborations, get in touch with our OSPO team at [ospo@mercadolibre.com](mailto:ospo@mercadolibre.com).
 
 ## Additional Resources
 
