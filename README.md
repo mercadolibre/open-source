@@ -1,5 +1,5 @@
 [![OSPO Landscape](https://img.shields.io/badge/TODO%20Landscape-OSPO%20Adopter-5699C6)](https://landscape.todogroup.org/?item=ospo-adopter--ospo-ad-pter--mercado-libre-adopter)
-![GitHub License](https://img.shields.io/github/license/fer-correa/open-source)
+![GitHub License](https://img.shields.io/github/license/mercadolibre/open-source)
 # Open Source at Mercado Libre
 
 <p float="left">
@@ -40,7 +40,7 @@ The Open Source Program Office (OSPO) at Mercado Libre is responsible for managi
 
 ### OSPO Information
 
-- **Contact**: For queries and collaborations, get in touch with our OSPO team at [ospo@mercadolibre.com]().
+- **Contact**: For queries and collaborations, get in touch with our OSPO team at [ospo@mercadolibre.com](mailto:ospo@mercadolibre.com).
 
 ## Additional Resources
 
